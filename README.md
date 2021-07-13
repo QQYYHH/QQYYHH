@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![milktime's github stats](https://github-readme-stats.vercel.app/api?username=QQYYHH)](https://github.com/anuraghazra/github-readme-stats)
+[![milktime's github stats](https://github-readme-stats.vercel.app/api?username=QQYYHH?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![milktime's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QQYYHH&bg_color=90,DAFFEF,FCFFFD?theme=onedark)
